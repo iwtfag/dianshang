@@ -1,0 +1,21 @@
+li.goods-item {
+    float: left;
+    list-style: none;
+    margin: 10px 30px 20px;
+    width: 200px;
+    border: 1px solid #ddd;
+    padding: 10px;
+}
+img {
+    width:100%;
+}
+.p_price {
+    font-size: 14px;
+    color: red;
+}
+a.description {
+    font-size: 14px;
+}
+.name {
+    display: none;
+}

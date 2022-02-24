@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Maven: com.alibaba:fastjson:1.2.3">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.2.3/fastjson-1.2.3.jar!/" />
+      <root url="jar://C:/Program Files/Apache Software Foundation/Tomcat 8.5/lib/servlet-api.jar!/" />
+      <root url="jar://$USER_HOME$/AppData/Local/Temp/BNZ.62053da68383b6a1/jsoup-1.11.2.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/资源/mysql-connector-java-8.0.27.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/资源/jedis-3.2.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.2.3/fastjson-1.2.3-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.2.3/fastjson-1.2.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
